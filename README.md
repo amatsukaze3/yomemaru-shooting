@@ -13,4 +13,4 @@
 このリポジトリの `index.html` は できあがった 1ファイルだけです。ソースは hiragana-yomemaru の `source/src/shooting/` にあります
 （`npm run build:single:shoot` → `dist-single-shoot/shooting.html` を この `index.html` に コピー）。
 
-こえ：VOICEVOX:ずんだもん
+こえ：VOICEVOX:ずんだもん／VOICEVOX:黒沢冴白（ひらがなじゃままるくん）
